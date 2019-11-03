@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\ndolo\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2273003492.index
+3467590934.index
+1470524588.index
